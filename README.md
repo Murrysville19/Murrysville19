@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Murrysville19
+- 👋 Hi, I’m @Electus_DAO
 - 👀 I’m interested in Web3 development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web3-related projects
